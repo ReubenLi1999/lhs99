@@ -1,5 +1,12 @@
 github_users:
   - ReubenLi1999
+  - seisman
+  - leouieda
+  - fjsimons
+  - jacobwilliams
 
-github_repos:
+github_repos:	
+  - csdms-contrib/slepian_zero
+  - acobwilliams/pyplot-fortran
+  - jacobwilliams/Fortran-Astrodynamics-Toolkit
   
