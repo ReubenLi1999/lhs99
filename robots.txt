@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://reubenli1999.github.io/alfolio/sitemap.xml
+Sitemap: https://reubenli1999.github.io/lhs99/sitemap.xml
