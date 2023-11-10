@@ -1,10 +1,10 @@
 ---
 layout: post
-title: a post with code
+title: OpenMP & Stacksize
 date: 2023-11-09 20:09:00
 description: OpenMP running time and stack size for threads
 tags: formatting code
-categories: coding
+categories: code
 featured: true
 ---
 
