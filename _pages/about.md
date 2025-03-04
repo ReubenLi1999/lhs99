@@ -28,14 +28,15 @@ Hao-si Li pursues his doctoral degree in Earth and Planetary Sciences College, U
 - KBR antenna phase centre on-board calibration
 - Line-of-sight gravity difference
 - High-temporal-resolution inversion of gravity field
+- Hydrogeodesy
+- Polar and Glacial Geodesy
+- Geodesy and Climate Change
 
 **Gravitational wave detection**
 
 - Time-delay interferometry
-- Gravitational-wave source parameter estimation
 
 **...and more!**
 
 - Estimation theory and stochastic process
-- Hydrogeodesy
-- On my way to seismology
+- 
