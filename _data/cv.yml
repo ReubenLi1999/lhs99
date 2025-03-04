@@ -32,7 +32,12 @@
   contents:
     - year: 2020
       items: 
-        - National Scholarship for Graduate Excellence 
+        - National Scholarship for Graduate Excellence
+        - Outstanding Graduate of Chang'an University
+    - year: 2024
+      items:
+        - Outstanding Student Paper Award of the China Joint Annual Conference on Earth Sciences
+        - First Prize Paper Award of TibXS Academic Conference
 
 - title: Academic Interests
   type: nested_list
@@ -40,6 +45,8 @@
     - title: Geodesy
       items: 
         - Hydrogeodesy
+        - Hurricanes
+        - Greenland Ice Sheet
         - Water-carbon Cycle
     - title: Geophysics
       items:

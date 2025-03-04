@@ -4,5 +4,5 @@ date: 2023-07-10
 inline: true
 ---
 
-TibXS conference in Dali
+11th TibXS conference in Dali, presentation
 
