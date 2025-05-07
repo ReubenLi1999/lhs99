@@ -27,9 +27,8 @@ Hao-si Li pursues his doctoral degree in College of Earth and Planetary Sciences
 - Data preprocessing of KBR, LRI, SCA and ACC
 - Line-of-sight gravity difference
 - High-temporal-resolution inversion of gravity field
-- Hydrogeodesy
-- Polar and Glacial Geodesy
-- Geodesy and Climate Change
+- Hydrogeodesy, Polar and Glacial Geodesy
+- Geodesy and Climate Change: Floodings, hurricanes, typhoons and extreme melting events
 
 **Gravitational wave detection**
 
