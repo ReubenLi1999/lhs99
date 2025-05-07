@@ -22,10 +22,9 @@ Hao-si Li pursues his doctoral degree in College of Earth and Planetary Sciences
 
 # What I do
 
-**Gravitational satellite data processing**
+**Gravitational satellite data processing and applications**
 
-- KBR and LRI data preprocessing
-- KBR antenna phase centre on-board calibration
+- Data preprocessing of KBR, LRI, SCA and ACC
 - Line-of-sight gravity difference
 - High-temporal-resolution inversion of gravity field
 - Hydrogeodesy
@@ -35,8 +34,3 @@ Hao-si Li pursues his doctoral degree in College of Earth and Planetary Sciences
 **Gravitational wave detection**
 
 - Time-delay interferometry
-
-**...and more!**
-
-- Estimation theory and stochastic process
-- 
