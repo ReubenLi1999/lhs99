@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Who I am
 
-Hao-si Li pursues his doctoral degree in Earth and Planetary Sciences College, University of Chinese Sciences Academy. 
+Hao-si Li pursues his doctoral degree in College of Earth and Planetary Sciences, University of Chinese Academy of Sciences. 
 
 # What I do
 
