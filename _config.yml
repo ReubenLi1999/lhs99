@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 🌏LHS # the website title (if blank, full name will be used instead)
+title: Hao-si Li # the website title (if blank, full name will be used instead)
 first_name: Haosi
 middle_name: 
 last_name: Li
 email: lihaosi@ucas.ac.cn
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Aux armes. Citoyen.
+description: >
+  Satellite gravimetry, hydrogeodesy, and high-temporal-resolution gravity field inversion.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

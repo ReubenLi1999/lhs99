@@ -18,18 +18,27 @@ social: true  # includes social icons at the bottom of the page
 
 # Who I am
 
-Hao-si Li is a postdoctoral researcher at the College of Earth and Planetary Sciences, University of Chinese Academy of Sciences.
+I am a postdoctoral researcher at the College of Earth and Planetary Sciences, University of Chinese Academy of Sciences. My research uses spaceborne gravimetry — GRACE, GRACE-FO, and the next generation of laser-ranging missions — to observe how water moves across and beneath the continents.
 
-# What I do
+# Research
 
-**Gravitational satellite data processing and applications**
+**Satellite gravimetry and its applications**
 
-- Data preprocessing of KBR, LRI, SCA and ACC
-- Line-of-sight gravity difference
-- High-temporal-resolution inversion of gravity field
-- Hydrogeodesy, Polar and Glacial Geodesy
-- Geodesy and Climate Change: Floodings, hurricanes, typhoons and extreme melting events
+- Preprocessing of KBR, LRI, SCA and ACC observations
+- Line-of-sight gravity difference and daily regional gravity field inversion
+- Slepian and B-spline spatio-temporal parameterization
+- In-orbit calibration of the KBR antenna phase center
+- Hydrogeodesy, polar and glacial geodesy
+- Extreme events: floods, hurricanes, typhoons and ice-sheet melting
 
 **Gravitational wave detection**
 
 - Time-delay interferometry
+
+# Selected work
+
+- Daily regional gravity field estimation from GRACE-FO line-of-sight gravity differences, applied to the 2020 Bangladesh and 2021 Australian floods (*JGR: Solid Earth*, 2025)
+- Revealing high-temporal-resolution flood evolution with low-latency GRACE-FO ranging data (*Water Resources Research*, 2024)
+- Desert lakes Nasser–Toshka as a novel validation site for satellite gravimetry (*GRL*, 2026)
+
+See the [publications]({{ '/publications/' | relative_url }}) page for the full list.
