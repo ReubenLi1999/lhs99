@@ -4,7 +4,6 @@
     "label": "Postdoctoral Researcher",
     "image": "",
     "email": "lihaosi@ucas.ac.cn",
-    "phone": "(86) 15281722449",
     "url": "https://reubenli1999.github.io/lhs99/",
     "summary": "Postdoctoral researcher working on satellite gravimetry and hydrogeodesy",
     "location": {
@@ -59,6 +58,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "National Scholarship for Graduate Excellence",
+      "date": "2025",
+      "awarder": "",
+      "summary": ""
+    },
     {
       "title": "Outstanding Student Paper Award of the China Joint Annual Conference on Earth Sciences",
       "date": "2024",

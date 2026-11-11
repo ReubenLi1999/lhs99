@@ -39,14 +39,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020
-      items: 
+    - year: 2025
+      items:
         - National Scholarship for Graduate Excellence
-        - Outstanding Graduate of Chang'an University
     - year: 2024
       items:
         - Outstanding Student Paper Award of the China Joint Annual Conference on Earth Sciences
         - First Prize Paper Award of TibXS Academic Conference
+    - year: 2020
+      items: 
+        - National Scholarship for Graduate Excellence
+        - Outstanding Graduate of Chang'an University
 
 - title: Academic Interests
   type: nested_list
