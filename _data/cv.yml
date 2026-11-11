@@ -8,6 +8,15 @@
     - name: Languages
       value: Chinese, English, French
 
+- title: Work
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: University of Chinese Academy of Sciences, Beijing, PRC
+      year: 2026-
+      description:
+        - Satellite gravimetry and hydrogeodesy
+
 - title: Education
   type: time_table
   contents:
@@ -23,7 +32,7 @@
         - Solid Geophysics
     - title: Doctor
       institution: University of Chinese Academy of Sciences, Beijing, PRC
-      year: 2023-
+      year: 2023-2026
       description:
         - Geodesy and Geodetic Engineering
 

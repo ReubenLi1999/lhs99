@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>P.h.D. Candidate</a>
+subtitle: <a href='#'>Postdoctoral Researcher</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 # Who I am
 
-Hao-si Li pursues his doctoral degree in College of Earth and Planetary Sciences, University of Chinese Academy of Sciences. 
+Hao-si Li is a postdoctoral researcher at the College of Earth and Planetary Sciences, University of Chinese Academy of Sciences.
 
 # What I do
 

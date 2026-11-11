@@ -1,40 +1,57 @@
 {
   "basics": {
     "name": "Haosi Li",
-    "label": "P.h.D. Candidate",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "lihaosi23@mails.ucas.ac.cn",
+    "email": "lihaosi@ucas.ac.cn",
     "phone": "(86) 15281722449",
     "url": "https://reubenli1999.github.io/lhs99/",
-    "summary": "P.h.D. candidate pursuing research of satellite gravimetry",
+    "summary": "Postdoctoral researcher working on satellite gravimetry and hydrogeodesy",
     "location": {
       "countryCode": "PRC",
       "region": "Beijing"
-    },
-
-    ]
+    }
   },
   "work": [
     {
-      "name": "",
-      "position": "",
+      "name": "University of Chinese Academy of Sciences, Beijing, PRC",
+      "position": "Postdoctoral Researcher",
       "url": "",
-      "startDate": "",
+      "startDate": "2026",
       "endDate": "",
-      "summary": "",
-      "highlights": [
-      ]
+      "summary": "Satellite gravimetry and hydrogeodesy",
+      "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
+      "institution": "University of Chinese Academy of Sciences, Beijing, PRC",
+      "url": "",
+      "area": "Geodesy and Geodetic Engineering",
+      "studyType": "Doctor",
+      "startDate": "2023",
+      "endDate": "2026",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Chang'an University, Xi'an, PRC",
+      "url": "",
+      "area": "Solid Geophysics",
+      "studyType": "Master",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Chang'an University, Xi'an, PRC",
       "url": "",
       "area": "Prospecting technique and engineering",
       "studyType": "Bachelor",
-      "startDate": "2016-09-01",
-      "endDate": "2020-07-01",
+      "startDate": "2016",
+      "endDate": "2020",
       "score": "",
       "courses": [
         "Estimation Theory"
@@ -43,7 +60,25 @@
   ],
   "awards": [
     {
-      "title": "National Scholarship for Graduate Excellence ",
+      "title": "Outstanding Student Paper Award of the China Joint Annual Conference on Earth Sciences",
+      "date": "2024",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "First Prize Paper Award of TibXS Academic Conference",
+      "date": "2024",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship for Graduate Excellence",
+      "date": "2020",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate of Chang'an University",
       "date": "2020",
       "awarder": "",
       "summary": ""
@@ -51,7 +86,17 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "Fortran"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
@@ -66,7 +111,24 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Academic Interests",
+      "keywords": [
+        "Hydrogeodesy",
+        "Hurricanes",
+        "Greenland Ice Sheet",
+        "Water-carbon Cycle"
+      ]
+    },
+    {
+      "name": "Other Interests",
+      "keywords": [
+        "Calligraphy",
+        "Running"
+      ]
+    }
+  ],
   "references": [],
   "projects": []
 }
